@@ -1943,3 +1943,194 @@ JCSE:
   rank: 4
   bioguide: S001203
   chamber: senate
+HSWM:
+- name: Jason Smith
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: S001195
+- name: Richard E. Neal
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: N000015
+- name: Vern Buchanan
+  party: majority
+  rank: 2
+  bioguide: B001260
+- name: Lloyd Doggett
+  party: minority
+  rank: 2
+  bioguide: D000399
+- name: Adrian Smith
+  party: majority
+  rank: 3
+  bioguide: S001172
+- name: Mike Thompson
+  party: minority
+  rank: 3
+  bioguide: T000460
+- name: Mike Kelly
+  party: majority
+  rank: 4
+  bioguide: K000376
+- name: John B. Larson
+  party: minority
+  rank: 4
+  bioguide: L000557
+- name: David Schweikert
+  party: majority
+  rank: 5
+  bioguide: S001183
+- name: Earl Blumenauer
+  party: minority
+  rank: 5
+  bioguide: B000574
+- name: Darin LaHood
+  party: majority
+  rank: 6
+  bioguide: L000585
+- name: Danny K. Davis
+  party: minority
+  rank: 6
+  bioguide: D000096
+- name: Brad R. Wenstrup
+  party: majority
+  rank: 7
+  bioguide: W000815
+- name: Linda T. Sánchez
+  party: minority
+  rank: 7
+  bioguide: S001156
+- name: Jodey C. Arrington
+  party: majority
+  rank: 8
+  bioguide: A000375
+- name: Terri A. Sewell
+  party: minority
+  rank: 8
+  bioguide: S001185
+- name: A. Drew Ferguson IV
+  party: majority
+  rank: 9
+  bioguide: F000465
+- name: Suzan K. DelBene
+  party: minority
+  rank: 9
+  bioguide: D000617
+- name: Ron Estes
+  party: majority
+  rank: 10
+  bioguide: E000298
+- name: Judy Chu
+  party: minority
+  rank: 10
+  bioguide: C001080
+- name: Lloyd Smucker
+  party: majority
+  rank: 11
+  bioguide: S001199
+- name: Gwen Moore
+  party: minority
+  rank: 11
+  bioguide: M001160
+- name: Kevin Hern
+  party: majority
+  rank: 12
+  bioguide: H001082
+- name: Daniel T. Kildee
+  party: minority
+  rank: 12
+  bioguide: K000380
+- name: Carol D. Miller
+  party: majority
+  rank: 13
+  bioguide: M001205
+- name: Donald S. Beyer, Jr.
+  party: minority
+  rank: 13
+  bioguide: B001292
+- name: Gregory F. Murphy
+  party: majority
+  rank: 14
+  bioguide: M001210
+- name: Dwight Evans
+  party: minority
+  rank: 14
+  bioguide: E000296
+- name: David Kustoff
+  party: majority
+  rank: 15
+  bioguide: K000392
+- name: Bradley Scott Schneider
+  party: minority
+  rank: 15
+  bioguide: S001190
+- name: Brian K. Fitzpatrick
+  party: majority
+  rank: 16
+  bioguide: F000466
+- name: Jimmy Panetta
+  party: minority
+  rank: 16
+  bioguide: P000613
+- name: W. Gregory Steube
+  party: majority
+  rank: 17
+  bioguide: S001214
+- name: Jimmy Gomez
+  party: minority
+  rank: 17
+  bioguide: G000585
+- name: Claudia Tenney
+  party: majority
+  rank: 18
+  bioguide: T000478
+- name: Steven Horsford
+  party: minority
+  rank: 18
+  bioguide: H001066
+- name: Michelle Fischbach
+  party: majority
+  rank: 19
+  bioguide: F000470
+- name: Blake D. Moore
+  party: majority
+  rank: 20
+  bioguide: M001213
+- name: Michelle Steel
+  party: majority
+  rank: 21
+  bioguide: S001135
+- name: Beth Van Duyne
+  party: majority
+  rank: 22
+  bioguide: V000134
+- name: Randy Feenstra
+  party: majority
+  rank: 23
+  bioguide: F000446
+- name: Nicole Malliotakis
+  party: majority
+  rank: 24
+  bioguide: M000317
+- name: Mike Carey
+  party: majority
+  rank: 25
+  bioguide: C001126
+- name: Rudy Yakym
+  party: majority
+  rank: 26
+  bioguide: Y000067
+- name: Max Miller
+  party: majority
+  rank: 27
+  bioguide: M001222
+- name: Aaron Bean
+  party: majority
+  rank: 28
+  bioguide: B001314
+- name: Nathaniel Moran
+  party: majority
+  rank: 29
+  bioguide: M001224
