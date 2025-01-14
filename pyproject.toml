@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "congress-legislators"
+version = "0.1.0"
+description = ""
+authors = ["Benjamin Rapaport <benjamin.rapaport@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+pytz = "^2024.2"
+scrapelib = "^2.3.0"
+rtyaml = "^1.0.0"
+lxml = "^5.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
