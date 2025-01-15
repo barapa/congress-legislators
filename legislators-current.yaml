@@ -1,4 +1,20 @@
 - id:
+    bioguide: J000312
+    wikipedia: Jim Justice
+  name:
+    first: James
+    last: Justice
+    official_full: Jim Justice
+  bio:
+    gender: M
+    birthday: '1951-04-27'
+  terms:
+  - type: sen
+    start: '2025-01-03'
+    end: '2031-01-03'
+    state: WV
+    party: Republican
+- id:
     bioguide: C000127
     thomas: '00172'
     lis: S275
