@@ -4,7 +4,7 @@
   name:
     first: James
     last: Justice
-    official_full: Jim Justice
+    official_full: James C. Justice
   bio:
     gender: M
     birthday: '1951-04-27'
@@ -14,6 +14,11 @@
     end: '2031-01-03'
     state: WV
     party: Republican
+    class: 1
+    url: https://www.justice.senate.gov
+    address: G12 Dirksen Senate Office Building Washington DC 20510
+    office: G12 Dirksen Senate Office Building
+    phone: 202-224-3954
 - id:
     bioguide: C000127
     thomas: '00172'
@@ -39983,7 +39988,7 @@
     end: '2031-01-03'
     state: OH
     class: 1
-    state_rank: junior
+    state_rank: senior
     party: Republican
     url: https://www.moreno.senate.gov
     address: B33 Russell Senate Office Building Washington DC 20510
