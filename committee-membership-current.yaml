@@ -361,101 +361,88 @@ HSWM:
   title: null
   bioguide: S001201
 SSEG:
-- name: Joe Manchin
-  party: minority
-  rank: 1
-  title: Chair
-  bioguide: M001183
-- name: John Barrasso
+- name: Mike Lee
   party: majority
   rank: 1
-  title: Ranking Member
+  title: Chairman
+  bioguide: L000577
+- name: John Barrasso
+  party: majority
+  rank: 2
   bioguide: B001261
+- name: James E. Risch
+  party: majority
+  rank: 3
+  bioguide: R000584
+- name: Steve Daines
+  party: majority
+  rank: 4
+  bioguide: D000618
+- name: Tom Cotton
+  party: majority
+  rank: 5
+  bioguide: C001095
+- name: David McCormick
+  party: majority
+  rank: 6
+  bioguide: M001243
+- name: James C. Justice
+  party: majority
+  rank: 7
+  bioguide: J000312
+- name: Bill Cassidy
+  party: majority
+  rank: 8
+  bioguide: C001075
+- name: Cindy Hyde-Smith
+  party: majority
+  rank: 9
+  bioguide: H001079
+- name: Lisa Murkowski
+  party: majority
+  rank: 10
+  bioguide: M001153
+- name: John Hoeven
+  party: majority
+  rank: 11
+  bioguide: H001061
+- name: Martin Heinrich
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: H001046
 - name: Ron Wyden
   party: minority
   rank: 2
-  title: null
   bioguide: W000779
 - name: Maria Cantwell
   party: minority
   rank: 3
-  title: null
   bioguide: C000127
-- name: Bernard Sanders
-  party: minority
-  rank: 4
-  title: null
-  bioguide: S000033
-- name: Martin Heinrich
-  party: minority
-  rank: 5
-  title: null
-  bioguide: H001046
 - name: Mazie K. Hirono
   party: minority
-  rank: 6
-  title: null
+  rank: 4
   bioguide: H001042
 - name: Angus S. King, Jr.
   party: minority
-  rank: 7
-  title: null
+  rank: 5
   bioguide: K000383
 - name: Catherine Cortez Masto
   party: minority
-  rank: 8
-  title: null
+  rank: 6
   bioguide: C001113
 - name: John W. Hickenlooper
   party: minority
-  rank: 9
-  title: null
+  rank: 7
   bioguide: H000273
 - name: Alex Padilla
   party: minority
-  rank: 10
-  title: null
-  bioguide: P000145
-- name: James E. Risch
-  party: majority
-  rank: 2
-  title: null
-  bioguide: R000584
-- name: Mike Lee
-  party: majority
-  rank: 3
-  title: null
-  bioguide: L000577
-- name: Steve Daines
-  party: majority
-  rank: 4
-  title: null
-  bioguide: D000618
-- name: Lisa Murkowski
-  party: majority
-  rank: 5
-  title: null
-  bioguide: M001153
-- name: John Hoeven
-  party: majority
-  rank: 6
-  title: null
-  bioguide: H001061
-- name: Bill Cassidy
-  party: majority
-  rank: 7
-  title: null
-  bioguide: C001075
-- name: Cindy Hyde-Smith
-  party: majority
   rank: 8
-  title: null
-  bioguide: H001079
-- name: Josh Hawley
-  party: majority
+  bioguide: P000145
+- name: Ruben Gallego
+  party: minority
   rank: 9
-  title: null
-  bioguide: H001089
+  bioguide: G000574
 HSGO:
 - name: James Comer
   party: majority
