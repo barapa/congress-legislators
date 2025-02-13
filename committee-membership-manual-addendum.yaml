@@ -1,5 +1,3 @@
-# HSBU is being overridden bc the source is missing Judy Chu (and ranks are not right bc of this)
-# Once Judy Chu is reflected in the source, the HSBU section should be removed
 HSBU:
 - name: Jodey C. Arrington
   party: majority
