@@ -1,3 +1,90 @@
+HSWM04:
+- name: Adrian Smith
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: S001172
+- name: Vern Buchanan
+  party: majority
+  rank: 2
+  bioguide: B001260
+- name: Darin LaHood
+  party: majority
+  rank: 3
+  bioguide: L000585
+- name: Jodey Arrington
+  party: majority
+  rank: 4
+  bioguide: A000375
+- name: Carol Miller
+  party: majority
+  rank: 5
+  bioguide: M001205
+- name: Lloyd Smucker
+  party: majority
+  rank: 6
+  bioguide: S001199
+- name: Gregory Murphy
+  party: majority
+  rank: 7
+  bioguide: M001210
+- name: W. Steube
+  party: majority
+  rank: 8
+  bioguide: S001214
+- name: Michelle Fischbach
+  party: majority
+  rank: 9
+  bioguide: F000470
+- name: Claudia Tenney
+  party: majority
+  rank: 10
+  bioguide: T000478
+- name: Blake Moore
+  party: majority
+  rank: 11
+  bioguide: M001213
+- name: Beth Van Duyne
+  party: majority
+  rank: 12
+  bioguide: V000134
+- name: Linda Sánchez
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: S001156
+- name: Jimmy Panetta
+  party: minority
+  rank: 2
+  bioguide: P000613
+- name: Suzan DelBene
+  party: minority
+  rank: 3
+  bioguide: D000617
+- name: Donald Beyer
+  party: minority
+  rank: 4
+  bioguide: B001292
+- name: Terri Sewell
+  party: minority
+  rank: 5
+  bioguide: S001185
+- name: Bradley Schneider
+  party: minority
+  rank: 6
+  bioguide: S001190
+- name: Lloyd Doggett
+  party: minority
+  rank: 7
+  bioguide: D000399
+- name: John Larson
+  party: minority
+  rank: 8
+  bioguide: L000557
+- name: Brendan Boyle
+  party: minority
+  rank: 9
+  bioguide: B001296
 HSPW12:
 - name: David Rouzer
   party: majority
