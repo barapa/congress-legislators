@@ -5,7 +5,7 @@
   thomas_id: HSAG
   house_committee_id: AG
   subcommittees:
-  - name: Forestry
+  - name: Forestry and Horticulture
     thomas_id: '15'
     address: 1301 LHOB; Washington, DC 20515
     phone: (202) 225-2171
@@ -25,7 +25,7 @@
     thomas_id: '14'
     address: 1301 LHOB; Washington, DC 20515
     phone: (202) 225-2171
-  - name: Nutrition, Foreign Agriculture, and Horticulture
+  - name: Nutrition and Foreign Agriculture
     thomas_id: '03'
     address: 1301 LHOB; Washington, DC 20515
     phone: (202) 225-2171
@@ -55,7 +55,7 @@
     thomas_id: '02'
     address: H405 CAPITOL; Washington, DC 20515
     phone: (202) 225-2847
-  - name: Energy and Water Development, and Related Agencies
+  - name: Energy and Water Development and Related Agencies
     thomas_id: '10'
     address: 2362B RHOB; Washington, DC 20515
     phone: (202) 225-3421
@@ -83,7 +83,7 @@
     thomas_id: '18'
     address: HT2 CAPITOL; Washington, DC 20515
     phone: (202) 225-3047
-  - name: State, Foreign Operations, and Related Programs
+  - name: National Security, Department of State, and Related Programs
     thomas_id: '04'
     address: HT2 CAPITOL; Washington, DC 20515
     phone: (202) 225-2041
@@ -165,11 +165,11 @@
     thomas_id: '01'
     address: 2129 RHOB; Washington, DC 20515
     phone: (202) 225-7502
-  - name: Financial Institutions and Monetary Policy
+  - name: Financial Institutions
     thomas_id: '20'
     address: 2129 RHOB; Washington, DC 20515
     phone: (202) 225-7502
-  - name: Digital Assets, Financial Technology and Inclusion
+  - name: Digital Assets, Financial Technology, and Artificial Intelligence
     thomas_id: '21'
     address: 2129 RHOB; Washington, DC 20515
     phone: (202) 225-7502
@@ -248,15 +248,15 @@
     thomas_id: '16'
     address: 2170 RHOB; Washington, DC 20515
     phone: (202) 226-8467
-  - name: Indo-Pacific
+  - name: East Asia and Pacific
     thomas_id: '05'
     address: 2170 RHOB; Washington, DC 20515
-    phone: (202) 000-0000
+    phone: (202) 226-8467
   - name: Europe
     thomas_id: '14'
     address: 2170 RHOB; Washington, DC 20515
     phone: (202) 226-8467
-  - name: Middle East, North Africa, and Central Asia
+  - name: Middle East and North Africa
     thomas_id: '13'
     address: 2170 RHOB; Washington, DC 20515
     phone: (202) 226-8467
@@ -264,12 +264,16 @@
     thomas_id: '07'
     address: 2170 RHOB; Washington, DC 20515
     phone: (202) 226-8467
-  - name: Oversight and Accountability
+  - name: Oversight and Intelligence
     thomas_id: '17'
     address: 2170 RHOB; Washington, DC 20515
     phone: (202) 226-8467
   - name: Global Health, Global Human Rights, and International Organizations
     thomas_id: '06'
+    address: 2170 RHOB; Washington, DC 20515
+    phone: (202) 226-8467
+  - name: South and Central Asia
+    thomas_id: '19'
     address: 2170 RHOB; Washington, DC 20515
     phone: (202) 226-8467
   address: 2170 RHOB; Washington, DC 20515-6128
@@ -287,11 +291,11 @@
   thomas_id: HSGO
   house_committee_id: GO
   subcommittees:
-  - name: Government Operations and the Federal Workforce
+  - name: Government Operations
     thomas_id: '24'
     address: 2157 RHOB; Washington, DC 20515
     phone: (202) 225-5074
-  - name: National Security, the Border, and Foreign Affairs
+  - name: Military and Foreign Affairs
     thomas_id: '06'
     address: 2157 RHOB; Washington, DC 20515
     phone: (202) 225-5074
@@ -305,6 +309,14 @@
     phone: (202) 225-5074
   - name: Cybersecurity, Information Technology, and Government Innovation
     thomas_id: '12'
+    address: 2157 RHOB; Washington, DC 20515
+    phone: (202) 225-5074
+  - name: Delivering on Government Efficiency
+    thomas_id: '16'
+    address: 2157 RHOB; Washington, DC 20515
+    phone: (202) 225-5074
+  - name: Federal Law Enforcement
+    thomas_id: '33'
     address: 2157 RHOB; Washington, DC 20515
     phone: (202) 225-5074
   address: 2157 RHOB; Washington, DC 20515-6143
@@ -330,7 +342,7 @@
     thomas_id: '06'
     address: 1309 LHOB; Washington, DC 20515
     phone: (202) 225-8281
-  - name: Modernization
+  - name: Modernization and Innovation
     thomas_id: '27'
     address: 1309 LHOB; Washington, DC 20515
     phone: (202) 225-8281
@@ -364,7 +376,7 @@
     thomas_id: '08'
     address: 176 FHOB; Washington, DC 20515
     phone: (202) 226-8417
-  - name: Counterterrorism, Law Enforcement, and Intelligence
+  - name: Counterterrorism and Intelligence
     thomas_id: '05'
     address: 176 FHOB; Washington, DC 20515
     phone: (202) 226-8417
@@ -393,7 +405,7 @@
   thomas_id: HSIF
   house_committee_id: IF
   subcommittees:
-  - name: Innovation, Data, and Commerce
+  - name: Commerce, Manufacturing, and Trade
     thomas_id: '17'
     address: 2125 RHOB; Washington, DC 20515
     phone: (202) 225-3641
@@ -401,7 +413,7 @@
     thomas_id: '16'
     address: 2125 RHOB; Washington, DC 20515
     phone: (202) 225-3641
-  - name: Energy, Climate, and Grid Security
+  - name: Energy
     thomas_id: '03'
     address: 2125 RHOB; Washington, DC 20515
     phone: (202) 225-3641
@@ -413,7 +425,7 @@
     thomas_id: '02'
     address: 2125 RHOB; Washington, DC 20515
     phone: (202) 225-3641
-  - name: Environment, Manufacturing, and Critical Materials
+  - name: Environment
     thomas_id: '18'
     address: 2125 RHOB; Washington, DC 20515
     phone: (202) 225-3641
@@ -490,6 +502,10 @@
     thomas_id: '06'
     address: HVC304 CAPITOL; Washington, DC 20515
     phone: (202) 225-4121
+  - name: Open Source Intelligence
+    thomas_id: '11'
+    address: HVC304 CAPITOL; Washington, DC 20515
+    phone: (202) 225-4121
   address: HVC304 CAPITOL; Washington, DC 20515-6415
   phone: (202) 225-4121
   jurisdiction: The United States House Permanent Select Committee on Intelligence
@@ -510,7 +526,7 @@
     thomas_id: '10'
     address: 2138 RHOB; Washington, DC 20515
     phone: (202) 225-6906
-  - name: Courts, Intellectual Property, and the Internet
+  - name: Courts, Intellectual Property, Artificial Intelligence, and the Internet
     thomas_id: '03'
     address: 2138 RHOB; Washington, DC 20515
     phone: (202) 225-6906
@@ -526,7 +542,7 @@
     thomas_id: '05'
     address: 2138 RHOB; Washington, DC 20515
     phone: (202) 225-6906
-  - name: Responsiveness and Accountability to Oversight
+  - name: Oversight
     thomas_id: '13'
     address: 2138 RHOB; Washington, DC 20515
     phone: (202) 225-6906
@@ -1081,17 +1097,17 @@
   senate_committee_id: SSCM
   subcommittees:
   - thomas_id: '33'
-    name: Aviation Safety, Operations, and Innovation
+    name: Aviation, Space, and Innovation
   - thomas_id: '34'
-    name: Communications, Media, and Broadband
+    name: Telecommunications and Media
   - thomas_id: '35'
-    name: Consumer Protection, Product Safety, and Data Security
+    name: Consumer Protection, Technology, and Data Privacy
   - thomas_id: '36'
-    name: Oceans, Fisheries, Climate Change, and Manufacturing
+    name: Coast Gaurd, Maritime, and Fisheries
   - thomas_id: '37'
-    name: Space and Science
+    name: Science, Manufacturing, and Competitiveness
   - thomas_id: '38'
-    name: Surface Transportation, Maritime, Freight, and Ports
+    name: Surface Transportation, Freight, Pipelines, and Safety
   - thomas_id: '39'
     name: Tourism, Trade, and Export Promotion
   wikipedia: United States Senate Committee on Commerce, Science and Transportation
