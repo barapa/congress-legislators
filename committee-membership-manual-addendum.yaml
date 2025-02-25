@@ -1,3 +1,62 @@
+HSFA05:
+- name: Young Kim
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: K000397
+- name: Michael McCaul
+  party: majority
+  rank: 2
+  bioguide: M001157
+- name: Garland Barr
+  party: majority
+  rank: 3
+  bioguide: B001282
+- name: Aumua Amata Radewagen
+  party: majority
+  rank: 4
+  bioguide: R000600
+- name: Ryan Zinke
+  party: majority
+  rank: 5
+  bioguide: Z000018
+- name: James (Jim) Moylan
+  party: majority
+  rank: 6
+  bioguide: M001219
+- name: Ryan Mackenzie
+  party: majority
+  rank: 7
+  bioguide: M001230
+- name: Sheri Biggs
+  party: majority
+  rank: 8
+  bioguide: B001325
+- name: Ami Bera
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: B001287
+- name: Brad Sherman
+  party: minority
+  rank: 2
+  bioguide: S000344
+- name: Joaquin Castro
+  party: minority
+  rank: 3
+  bioguide: C001091
+- name: Jared Moskowitz
+  party: minority
+  rank: 4
+  bioguide: M001217
+- name: Gabe Amo
+  party: minority
+  rank: 5
+  bioguide: A000380
+- name: Johnny Olszewski
+  party: minority
+  rank: 6
+  bioguide: O000176
 HSWM04:
 - name: Adrian Smith
   party: majority
