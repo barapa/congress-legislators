@@ -1,3 +1,75 @@
+HSAP07:
+- name: Robert Aderholt
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: A000055
+- name: Michael Simpson
+  party: majority
+  rank: 2
+  bioguide: S001148
+- name: Andy Harris
+  party: majority
+  rank: 3
+  bioguide: H001052
+- name: Charles Fleischmann
+  party: majority
+  rank: 4
+  bioguide: F000459
+- name: John Moolenaar
+  party: majority
+  rank: 5
+  bioguide: M001194
+- name: Julia Letlow
+  party: majority
+  rank: 6
+  title: Vice Chair
+  bioguide: L000595
+- name: Andrew Clyde
+  party: majority
+  rank: 7
+  bioguide: C001116
+- name: Jake Ellzey
+  party: majority
+  rank: 8
+  bioguide: E000071
+- name: Stephanie Bice
+  party: majority
+  rank: 9
+  bioguide: B000740
+- name: Riley Moore
+  party: majority
+  rank: 10
+  bioguide: M001235
+- name: Rosa DeLauro
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: D000216
+- name: Steny Hoyer
+  party: minority
+  rank: 2
+  bioguide: H000874
+- name: Mark Pocan
+  party: minority
+  rank: 3
+  bioguide: P000607
+- name: Lois Frankel
+  party: minority
+  rank: 4
+  bioguide: F000462
+- name: Bonnie Watson Coleman
+  party: minority
+  rank: 5
+  bioguide: W000822
+- name: Josh Harder
+  party: minority
+  rank: 6
+  bioguide: H001090
+- name: Madeleine Dean
+  party: minority
+  rank: 7
+  bioguide: D000631
 HSIF02:
 - name: Gary Palmer
   party: majority
