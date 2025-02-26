@@ -1,3 +1,81 @@
+HSIF02:
+- name: Gary Palmer
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: P000609
+- name: Troy Balderson
+  party: majority
+  rank: 2
+  title: Vice Chair
+  bioguide: B001306
+- name: H. Morgan Griffith
+  party: majority
+  rank: 3
+  bioguide: G000568
+- name: Neal Dunn
+  party: majority
+  rank: 4
+  bioguide: D000628
+- name: Dan Crenshaw
+  party: majority
+  rank: 5
+  bioguide: C001120
+- name: Randy Weber
+  party: majority
+  rank: 6
+  bioguide: W000814
+- name: Rick Allen
+  party: majority
+  rank: 7
+  bioguide: A000372
+- name: Russ Fulcher
+  party: majority
+  rank: 8
+  bioguide: F000469
+- name: Michael Rulli
+  party: majority
+  rank: 9
+  bioguide: R000619
+- name: Brett Guthrie
+  party: majority
+  rank: 10
+  title: Ex Officio
+  bioguide: G000558
+- name: Yvette Clarke
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: C001067
+- name: Diana DeGette
+  party: minority
+  rank: 2
+  bioguide: D000197
+- name: Paul Tonko
+  party: minority
+  rank: 3
+  bioguide: T000469
+- name: Lori Trahan
+  party: minority
+  rank: 4
+  bioguide: T000482
+- name: Lizzie Fletcher
+  party: minority
+  rank: 5
+  bioguide: F000468
+- name: Alexandria Ocasio-Cortez
+  party: minority
+  rank: 6
+  bioguide: O000172
+- name: Kevin Mullin
+  party: minority
+  rank: 7
+  bioguide: M001225
+- name: Frank Pallone
+  party: minority
+  rank: 8
+  title: Ex Officio
+  bioguide: P000034
 HSBA16:
 - name: Ann Wagner
   party: majority
