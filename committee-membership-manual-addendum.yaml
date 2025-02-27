@@ -1,3 +1,76 @@
+SSCM38:
+- name: Todd Young
+  party: majority
+  rank: 1
+  title: Chairman
+  bioguide: Y000064
+- name: John Thune
+  party: majority
+  rank: 2
+  bioguide: T000250
+- name: Roger Wicker
+  party: majority
+  rank: 3
+  bioguide: W000437
+- name: Deb Fischer
+  party: majority
+  rank: 4
+  bioguide: F000463
+- name: Dan Sullivan
+  party: majority
+  rank: 5
+  bioguide: S001198
+- name: Eric Schmitt
+  party: majority
+  rank: 6
+  bioguide: S001227
+- name: Bernie Moreno
+  party: majority
+  rank: 7
+  bioguide: M001242
+- name: Shelley Moore Capito
+  party: majority
+  rank: 8
+  bioguide: C001047
+- name: Ted Cruz
+  party: majority
+  rank: 9
+  title: Ex Officio
+  bioguide: C001098
+- name: Gary Peters
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: P000595
+- name: Amy Klobuchar
+  party: minority
+  rank: 2
+  bioguide: K000367
+- name: Brian Schatz
+  party: minority
+  rank: 3
+  bioguide: S001194
+- name: Edward Markey
+  party: minority
+  rank: 4
+  bioguide: M000133
+- name: Tammy Duckworth
+  party: minority
+  rank: 5
+  bioguide: D000622
+- name: Ben Ray Luján
+  party: minority
+  rank: 6
+  bioguide: L000570
+- name: Andy Kim
+  party: minority
+  rank: 7
+  bioguide: K000394
+- name: Maria Cantwell
+  party: minority
+  rank: 8
+  title: Ex Officio
+  bioguide: C000127
 HSAP07:
 - name: Robert Aderholt
   party: majority
