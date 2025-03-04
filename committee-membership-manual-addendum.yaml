@@ -1,3 +1,42 @@
+HSHM12:
+- name: Dale Strong
+  party: majority
+  rank: 1
+  title: Chairman
+  bioguide: S001220
+- name: Josh Brecheen
+  party: majority
+  rank: 2
+  bioguide: B001317
+- name: Gabe Evans
+  party: majority
+  rank: 3
+  bioguide: E000300
+- name: Ryan Mackenzie
+  party: majority
+  rank: 4
+  bioguide: M001230
+- name: Timothy Kennedy
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: K000402
+- name: Julie Johnson
+  party: minority
+  rank: 2
+  bioguide: J000310
+- name: Pablo José Hernández Rivera
+  party: minority
+  rank: 3
+  bioguide: H001103
+- name: Mark Green
+  party: majority
+  title: Ex Officio
+  bioguide: G000590
+- name: Bennie Thompson
+  party: minority
+  title: Ex Officio
+  bioguide: T000193
 HSBA99:
 - name: Frank D. Lucas
   party: majority
