@@ -1,3 +1,62 @@
+HSBA99:
+- name: Frank D. Lucas
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: L000491
+- name: Bill Huizenga
+  party: majority
+  rank: 2
+  bioguide: H001058
+- name: Garland Barr
+  party: majority
+  rank: 3
+  bioguide: B001282
+- name: Marlin Stutzman
+  party: majority
+  rank: 4
+  bioguide: S001188
+- name: Scott Fitzgerald
+  party: majority
+  rank: 5
+  bioguide: F000471
+- name: Mike Flood
+  party: majority
+  rank: 6
+  bioguide: F000474
+- name: Mónica De La Cruz
+  party: majority
+  rank: 7
+  bioguide: D000594
+- name: Troy Downing
+  party: majority
+  rank: 8
+  bioguide: D000634
+- name: Juan Vargas
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: V000130
+- name: Brad Sherman
+  party: minority
+  rank: 2
+  bioguide: S000344
+- name: Josh Gottheimer
+  party: minority
+  rank: 3
+  bioguide: G000583
+- name: Sean Casten
+  party: minority
+  rank: 4
+  bioguide: C001117
+- name: Cleo Fields
+  party: minority
+  rank: 5
+  bioguide: F000110
+- name: Janelle Bynum
+  party: minority
+  rank: 6
+  bioguide: B001326
 SSCM38:
 - name: Todd Young
   party: majority
