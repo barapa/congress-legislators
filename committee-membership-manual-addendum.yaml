@@ -1,3 +1,93 @@
+HSPW13:
+- name: Scott Perry
+  party: majority
+  rank: 1
+  title: Chairman
+  bioguide: P000605
+  state: PA
+- name: Mike Ezell
+  party: majority
+  rank: 2
+  bioguide: E000235
+  state: MS
+- name: Kevin Kiley
+  party: majority
+  rank: 3
+  bioguide: K000401
+  state: CA
+- name: Tom Barrett
+  party: majority
+  rank: 4
+  bioguide: B001321
+  state: MI
+- name: Robert P. Bresnahan, Jr.
+  party: majority
+  rank: 5
+  bioguide: B001327
+  state: PA
+- name: Kimberlyn King-Hinds
+  party: majority
+  rank: 6
+  bioguide: K000404
+  state: MP
+- name: Mike Kennedy
+  party: majority
+  rank: 7
+  bioguide: K000403
+  state: UT
+- name: Robert F. Onder, Jr.
+  party: majority
+  rank: 8
+  bioguide: O000177
+  state: MO
+- name: Sam Graves
+  party: majority
+  rank: 9
+  title: Ex Officio
+  bioguide: G000546
+  state: MO
+- name: Greg Stanton
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: S001211
+  state: AZ
+- name: Eleanor Holmes Norton
+  party: minority
+  rank: 2
+  bioguide: N000147
+  state: DC
+- name: Kristen McDonald Rivet
+  party: minority
+  rank: 3
+  bioguide: M001237
+  state: MI
+- name: Shomari Figures
+  party: minority
+  rank: 4
+  bioguide: F000481
+  state: AL
+- name: John Garamendi
+  party: minority
+  rank: 5
+  bioguide: G000559
+  state: CA
+- name: Dina Titus
+  party: minority
+  rank: 6
+  bioguide: T000468
+  state: NV
+- name: Laura Friedman
+  party: minority
+  rank: 7
+  bioguide: F000483
+  state: CA
+- name: Rick Larsen
+  party: minority
+  rank: 8
+  title: Ex Officio
+  bioguide: L000560
+  state: WA
 HSAP23:
 - name: David Joyce
   party: majority
