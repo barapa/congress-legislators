@@ -1,3 +1,44 @@
+HSHM09:
+- name: Josh Brecheen
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: B001317
+- name: Marjorie Greene
+  party: majority
+  rank: 2
+  bioguide: G000596
+- name: Dale Strong
+  party: majority
+  rank: 3
+  bioguide: S001220
+- name: Andrew Ogles
+  party: majority
+  rank: 4
+  bioguide: O000175
+- name: Brad Knott
+  party: majority
+  rank: 5
+  bioguide: K000405
+- name: Shri Thanedar
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: T000488
+- name: Delia Ramirez
+  party: minority
+  rank: 2
+  bioguide: R000617
+- name: Bennie Thompson
+  party: minority
+  rank: 3
+  title: Ex Officio
+  bioguide: T000193
+- name: Mark Green
+  party: majority
+  rank: 6
+  title: Ex Officio
+  bioguide: G000590
 HSVR10:
 - name: Derrick Van Orden
   party: majority
