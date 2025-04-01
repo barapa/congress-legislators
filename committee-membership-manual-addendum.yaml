@@ -57,3 +57,50 @@ HSBA99:
   party: minority
   rank: 6
   bioguide: B001326
+SSJU01:
+- name: Mike Lee
+  party: majority
+  rank: 1
+  title: Chair
+  bioguide: L000577
+- name: Josh Hawley
+  party: majority
+  rank: 2
+  bioguide: H001089
+- name: Thom Tillis
+  party: majority
+  rank: 3
+  bioguide: T000476
+- name: Eric Schmitt
+  party: majority
+  rank: 4
+  bioguide: S001227
+- name: Katie Britt
+  party: majority
+  rank: 5
+  bioguide: B001319
+- name: Ashley Moody
+  party: majority
+  rank: 6
+  bioguide: M001244
+- name: Cory Booker
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: B001288
+- name: Amy Klobuchar
+  party: minority
+  rank: 2
+  bioguide: K000367
+- name: Richard Blumenthal
+  party: minority
+  rank: 3
+  bioguide: B001277
+- name: Peter Welch
+  party: minority
+  rank: 4
+  bioguide: W000800
+- name: Adam Schiff
+  party: minority
+  rank: 5
+  bioguide: S001150
