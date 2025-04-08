@@ -104,3 +104,55 @@ SSJU01:
   party: minority
   rank: 5
   bioguide: S001150
+HSBA09:
+- name: Daniel Meuser
+  party: majority
+  rank: 1
+  title: Chairman
+  bioguide: M001204
+- name: Al Green
+  party: minority
+  rank: 1
+  title: Ranking Member
+  bioguide: G000553
+- name: Tim Moore
+  party: majority
+  rank: 2
+  title: Vice Chairman
+  bioguide: M001236
+- name: Rashida Tlaib
+  party: minority
+  rank: 2
+  bioguide: T000481
+- name: Ann Wagner
+  party: majority
+  rank: 3
+  bioguide: W000812
+- name: Nikema Williams
+  party: minority
+  rank: 3
+  bioguide: W000788
+- name: Barry Loudermilk
+  party: majority
+  rank: 4
+  bioguide: L000583
+- name: Cleo Fields
+  party: minority
+  rank: 4
+  bioguide: F000110
+- name: Andrew R. Garbarino
+  party: majority
+  rank: 5
+  bioguide: G000597
+- name: Sam T. Liccardo
+  party: minority
+  rank: 5
+  bioguide: L000607
+- name: Andrew Ogles
+  party: majority
+  rank: 6
+  bioguide: O000175
+- name: Mike Haridopolos
+  party: majority
+  rank: 7
+  bioguide: H001099
